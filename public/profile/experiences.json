@@ -1,33 +1,39 @@
 {
-    "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "subtitle": "Ghumoyar.com (Personal Travel Project)",
+      "workType": "Self-Project",
+      "workDescription": [
+        "Developed a travel booking website similar to MakeMyTrip using the MERN stack.",
+        "Implemented search, destination filters, and booking functionality using React.js and Node.js.",
+        "Handled user authentication using JWT and managed data using MongoDB + Mongoose.",
+        "Deployed frontend on Vercel and backend on Render with MongoDB Atlas integration."
+      ],
+      "dateText": "06/2024 – Present"
+    },
+    {
+      "title": "Frontend Developer",
+      "subtitle": "Portfolio Website - 4codehunter",
+      "workType": "Personal Project",
+      "workDescription": [
+        "Designed and developed a dynamic portfolio using React.js and styled-components.",
+        "Created reusable components to showcase education, skills, experience, and certifications.",
+        "Responsive design using Flexbox and media queries for all screen sizes.",
+        "Hosted the site on Vercel and integrated GitHub APIs for project sync."
+      ],
+      "dateText": "05/2024 – 06/2024"
+    },
+    {
+      "title": "Web Developer",
+      "subtitle": "Tutedude (Course Projects)",
+      "workType": "Training Project",
+      "workDescription": [
+        "Built multiple real-world projects during Full Stack Web Development course at Tutedude.",
+        "Learned and implemented technologies like HTML, CSS, JavaScript, React.js, Node.js, MongoDB.",
+        "Worked on authentication systems, REST APIs, CRUD apps, and single-page applications."
+      ],
+      "dateText": "01/2024 – 06/2024"
+    }
+  ]
 }

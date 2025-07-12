@@ -1,9 +1,8 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
-
+# Dev Portfolio  [![GitHub](https://github.com/Muhammad041008)](https://github.com/Muhammad041008/dev-portfolio/blob/master/LICENSE.md)
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/Muhammad041008/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -17,7 +16,7 @@
 
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://github.com/Muhammad041008.vercel.app)**
 
 ## Why do you need a portfolio? ☝️
 
@@ -43,7 +42,7 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/mayankagarwal09/dev-portfolio
+$ git clone https://github.com/Muhammad041008/dev-portfolio
 
 # Move into the repository
 $ cd dev-portfolio
@@ -407,11 +406,11 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Muhammad041008/dev-portfolio"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Muhammad041008"
                 }
             ],
             "tags" : [
@@ -426,7 +425,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/Muhammad041008"
                 }
             ],
             "tags" : [
@@ -446,7 +445,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/Muhammad041008/task-tracker-app"
                 }
             ],
             "tags" : [
@@ -551,11 +550,11 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
+- **Mayank Agarwal** - [https://github.com/Muhammad041008](https://github.com/Muhammad041008)
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal09/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/Muhammad041008/dev-portfolio/issues) in this repository.
 
 ## License 📄
 

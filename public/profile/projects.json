@@ -1,149 +1,107 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
+            "image": "images/projects/portfolio-poster.png",
+            "title": "Imran-Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/Muhammad041008"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "React",
                 "Portfolio",
                 "JavaScript"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image": "images/projects/boctat1.jpg",
+            "title": "Boctat - Tour & Travel Website",
+            "bodyText": "- A fully responsive travel website built using **HTML**, **CSS**, and **JavaScript**.\n - Includes visually appealing sections for destinations, booking, and packages.\n - Interactive UI to explore tours and make bookings easily.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Muhammad041008/boctat.011"
                 }
             ],
-            "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
+            "tags": [
+                "HTML",
+                "CSS",
                 "JavaScript"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "image": "images/projects/restaurant.png",
+            "title": "Snacks In Seconds - Restaurant Website",
+            "bodyText": "- A modern restaurant website designed using **HTML**, **CSS**, **JavaScript**, and **jQuery**.\n - Features include dynamic menu display, user interaction, and responsive design.\n - Backend functionality powered by **Mongoose** and **Bootstrap** for styling.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/Muhammad041008/Restaurant-Project"
                 }
             ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "Mongoose",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "Secrets Web App",
+            "bodyText": "- A secure web application to anonymously share secrets, made with **HTML**, **CSS**, **JavaScript**, and **EJS**.\n - Implements authentication and session handling with **Express**.\n - Secrets are stored and rendered securely using templating.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Muhammad041008/Secrets-Web"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "EJS"
+            ]
+        },
+        {
+             "image": "images/projects/keeper.webp",
+            "title": "Keeper App",
+            "bodyText": "- A digital note-keeping application inspired by Google Keep.\n - Built using **React.js**, **Node.js**, and **MongoDB** for full-stack functionality.\n - Users can create, delete, and store notes dynamically.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Muhammad041008/Dev-portfolio"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Node",
+                "MongoDB"
+            ]
+        },
+        {
+             "image": "images/projects/weathar.avif",
+            "title": "Weather App",
+            "bodyText": "- A weather forecast web app using **Google Weather API**.\n - Provides real-time weather updates for searched locations.\n - Built with **HTML**, **CSS**, and **JavaScript** for dynamic user experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Muhammad041008/Weather-API-Web"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Weather API"
             ]
         }
     ]
