@@ -546,11 +546,11 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Notable Portfolios made using this template
 
-- [Mayank Agarwal](https://mayankagarwal09.com)
+- [Muhammad Imran](https://github.com/Muhammad041008)
 
 ## Authors
 
-- **Mayank Agarwal** - [https://github.com/Muhammad041008](https://github.com/Muhammad041008)
+- **Muhammad Imran** - [https://github.com/Muhammad041008](https://github.com/Muhammad041008)
 
 ## Support
 
