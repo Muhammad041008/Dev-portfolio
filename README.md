@@ -1,4 +1,4 @@
-# Dev Portfolio  [![GitHub](https://github.com/Muhammad041008)](https://github.com/Muhammad041008/dev-portfolio/blob/master/LICENSE.md)
+# Dev Portfolio  [![GitHub](https://github.com/Muhammad041008)](https://github.com/Muhammad041008)
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
